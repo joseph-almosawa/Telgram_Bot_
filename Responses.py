@@ -12,7 +12,7 @@ def replay(txt_user):
     
     if user_message in ("who are you", "who are you?", "who you are", "who you are?", "what is you'r name", "what is you'r name?",
     "what is your name", "what is your name?"):
-        return "I am suuiiiii ^o^ bot ^_*"
+        return "I am suuiiiii ^ooo^"
     
     if user_message in("how are you","how are you?","what's up","what's up?","whats up","whats up?", "what's new?","what's new",
     "how are you doing?", "how are you doing", "how have you been?", "how have you been", "how's everything?", "how is everything?",

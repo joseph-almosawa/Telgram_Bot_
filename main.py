@@ -35,7 +35,7 @@ def main():
     dp.add_handler(MessageHandler(Filters.text, handel_message))
 
     dp.add_error_handler(error)
-    updater.start_polling() # here to put the amount of sec to reply
+    updater.start_polling(2) # here to put the amount of sec to reply
     updater.idle() #this just to make sure that it continusly stays active 
 
 
