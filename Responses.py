@@ -1,9 +1,4 @@
 
-
-
-
-
-
 def replay(txt_user):
     user_message = str(txt_user).lower()
 

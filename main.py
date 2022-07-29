@@ -1,11 +1,18 @@
 import Responses
 import API_KEY
 from telegram.ext import *
-
+from telegram import keyboardbutton, InlineKeyboardButton
 
 print("Bot started...")
 
+
+
+
+
+
+
 def start_command(update, context):
+    
     update.message.reply_text('Type somthing random to get started!')
 
 
