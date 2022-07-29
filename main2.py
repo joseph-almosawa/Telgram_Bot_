@@ -2,7 +2,7 @@ from telegram.ext import  Updater
 from telegram.ext import CommandHandler, CallbackQueryHandler
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from API_KEY import API_KEY
-import Responses
+
 import API_KEY
 
 print("BOT starting.......")
