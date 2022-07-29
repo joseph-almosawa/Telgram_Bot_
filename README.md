@@ -8,3 +8,4 @@ If you want to run the bot you need to download first pip python-telegram-bot an
 And if you want to run the Bot 🤖 with only using menus you can then run the main2.py
 
 
+
